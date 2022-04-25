@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+
+# 👋 Hi there, I'm ironhead
+
+![Software Student](https://img.shields.io/badge/Software%20Engineering-student-brightgreen?style=for-the-badge&logo=python)
+[![Full Stack Developer](https://img.shields.io/badge/developer-full%20stack-blueviolet?style=for-the-badge&logo=neovim)](https://github.com/ironheads)
+
+
+</div>
 
 <!--
 **ironheads/ironheads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
