@@ -8,7 +8,7 @@
 
 </div>
 
-![contribution grid snake](https://github.com/fky2015/fky2015/raw/output/github-contribution-grid-snake.svg)
+![contribution grid snake](https://github.com/ironheads/ironheads/raw/output/github-contribution-grid-snake.svg)
 
 <br />
 <!--
