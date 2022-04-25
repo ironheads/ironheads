@@ -2,8 +2,8 @@
 
 # 👋 Hi there, I'm ironhead
 
-![Software Student](https://img.shields.io/badge/Software%20Engineering-student-brightgreen?style=for-the-badge&logo=python)
-[![Full Stack Developer](https://img.shields.io/badge/developer-full%20stack-blueviolet?style=for-the-badge&logo=neovim)](https://github.com/ironheads)
+![Software Engineering Student](https://img.shields.io/badge/Software%20Engineering-student-brightgreen?style=for-the-badge&logo=/e/)
+[![Full Stack Developer](https://img.shields.io/badge/developer-full%20stack-blueviolet?style=for-the-badge&logo=github)](https://github.com/ironheads)
 
 
 </div>
