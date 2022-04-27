@@ -11,6 +11,8 @@
 ![contribution grid snake](https://github.com/ironheads/ironheads/raw/output/github-contribution-grid-snake.svg)
 
 <br />
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 <!--
 **ironheads/ironheads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
