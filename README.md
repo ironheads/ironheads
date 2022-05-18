@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning `Inpainting Generation`.
 - 👯 I’m looking to collaborate on `All Creative Things`.
 - 💬 Ask me about `Everything You Want`.
-- ⚡ Fun fact: I'm recently trying to lose weight. 
+- ⚡ Fun fact: I'm recently trying to `Lose Weight`. 
 
 <div align="center">
 
