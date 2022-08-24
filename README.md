@@ -8,7 +8,7 @@
 </div>
 
 - 🔭 I’m currently a graduate student working on `Computer Vision` & `Deep Learning`.
-- 🌱 I’m currently learning `Inpainting Generation`.
+- 🌱 I’m currently learning `Image Harmonization/Composition`.
 - 👯 I’m looking to collaborate on `All Creative Things`.
 - 💬 Ask me about `Everything You Want`.
 - ⚡ Fun fact: I'm recently trying to `Lose Weight`. 
